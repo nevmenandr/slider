@@ -31,10 +31,10 @@ body {
     background-size: 900px 100%;
   }
   .background-img {
-    background-image: url('img/library_before1.jpg');
+    background-image: url('https://nevmenandr.github.io/slider/img/library_before1.jpg');
   }
   .foreground-img {
-    background-image: url('img/library_after1.jpg');
+    background-image: url('https://nevmenandr.github.io/slider/img/library_after1.jpg');
     width: 50%;
   }
   
